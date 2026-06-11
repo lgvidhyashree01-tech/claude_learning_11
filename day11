@@ -1,0 +1,11 @@
+*What I learned from this task:*
+1. ATS matters more than design: Learned how ATS systems scan resumes for keywords, formatting, and structure before a human even sees it.
+2. Keyword matching = visibility: Learned to align resume content with JD keywords to improve match score without keyword stuffing.
+3. Iterate with AI: Using ATS analysis + gap feedback from Claude to rewrite bullets with metrics and action verbs improves clarity + ranking.
+4. From generic to targeted: Learned to customize 1 base resume for multiple roles by swapping keywords/skills per JD.
+
+*Tools used:*
+1. Claude AI - ATS scan, gap analysis, resume rewriting
+2. JD sources - LinkedIn, Naukri, company career pages for target keywords
+3. PDF/DOCX - Save ATS-friendly formatted resume
+4. Screenshot tool - Capture before/after ATS score for proof
